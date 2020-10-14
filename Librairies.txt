@@ -1,0 +1,12 @@
+Description des librairies utilisées dans mon projet de fin d'année.
+
+Librairies externes:
+	- Pygame : utilisée pour le lecteur de musique
+
+Librairies déjà présentes:
+	- Time : utilisée pour lee timeur et afficher l'heure actuelle
+	- Os : utilisée pour trouver le chemin dans l'ordinateur
+	- math : utilisée dans la calculatrice
+	- Tkinter : interface et autres (askcolor et filedialog)
+	- getpass : permet de trouver l'utilisateur actif
+
